@@ -2,7 +2,7 @@
 
 Description:
 
-This is a game created using HTML, CSS, JS, and JQuery. You press the A key to start and click on the four options that are provided, once clicked the level will increase. Each time a button is clicked a sound will be made and background will change color and it will state , "Game Over".
+This is a game created using HTML, CSS, JS, and JQuery. You press the A key to start and click on the four options that are provided, once clicked the level will increase. Each time a button is clicked a sound will be made and background will change color and it will state , "Game Over". This is a simple and fun game try it out!
 
 Links:
 
